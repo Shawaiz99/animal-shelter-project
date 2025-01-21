@@ -3,7 +3,7 @@ function Nav() {
       <nav className="navbar navbar-dark bg-dark navbar-expand-lg sticky-top">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            Yoll App
+            Animal Shelter
           </a>
           <button
             className="navbar-toggler"
